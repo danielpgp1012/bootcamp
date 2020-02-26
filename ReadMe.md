@@ -1,5 +1,5 @@
 # Bootcamp
-
+[![Build Status](https://travis-ci.org/your-id/your-repo.svg?branch=master)](https://travis-ci.org/your-id/your-repo)
 This folder contains "bootcamps", which are hands-on introductions to a course.
 
 - [Software Engineering bootcamp](SwEngBootcamp.md): install Java then learn about versioning with Git, hosting code on GitHub, building projects with Gradle, and continuous integration with Travis CI
